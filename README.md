@@ -2,7 +2,7 @@
 truSocial - fully responsive social media website
 Fully responsive social media website - truSocial.
 
-Access the website here : https://imrishab.github.io/truSocial/
+Access the website here : https://sahukrishna27.github.io/truSocial/
 
 It is built using HTML, CSS, and JavaScript. The website is fully responsive, meaning that it adapts to the screen size of the device being used to view it. The latest CSS techniques have been used in the project to make it visually attractive and user-friendly.
 
